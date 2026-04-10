@@ -66,12 +66,12 @@ const FEATURES = [
 ];
 
 const GAMES = [
-  { name: 'Blox Fruits',       img: '/Main/Images/bloxfruits.jpg', col: '#8b1a00' },
-  { name: 'Silent Assasins',           img: '/Main/Images/silenassasins.jpg',     col: '#1a0060' },
-  { name: 'PVP Blox Fruits',           img: '/Main/Images/pvp.jpg',    col: '#006400' },
-  { name: '99 Night In The Forest',   img: '/Main/Images/99.jpg',   col: '#8b4513' },
-  { name: 'Farm Fruits',  img: '/Main/Images/fruit.jpg',        col: '#006080' },
-  { name: 'Main 99 Night',         img: '/Main/Images/main99.jpg',   col: '#6b4400' },
+  { name: 'Blox Fruits',       img: 'Main/Images/bloxfruits.jpg', col: '#8b1a00' },
+  { name: 'Silent Assasins',           img: 'Main/Images/silenassasins.jpg',     col: '#1a0060' },
+  { name: 'PVP Blox Fruits',           img: 'Main/Images/pvp.jpg',    col: '#006400' },
+  { name: '99 Night In The Forest',   img: 'Main/Images/99.jpg',   col: '#8b4513' },
+  { name: 'Farm Fruits',  img: 'Main/Images/fruit.jpg',        col: '#006080' },
+  { name: 'Main 99 Night',         img: 'Main/Images/main99.jpg',   col: '#6b4400' },
 ];
 
 const SCRIPTS = [
