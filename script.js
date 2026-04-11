@@ -40,10 +40,10 @@ const REVIEWS = [
 
 const VIDEOS = [
   { title: 'Blox Fruits Farm Chest',    desc: 'Auto farm chest with bypass tp no reset beli', videoId: 'aQgVGBt6I9Y', url: 'https://youtube.com' },
-  { title: 'Main Silent Assasins',           desc: 'Insane kill all player without click',            videoId: 'NosCYiD3tJM', url: 'https://youtube.com' },
+  { title: 'Main Silent Assasins',           desc: 'ESP,Speed Hack,Insane kill all player without click',            videoId: 'NosCYiD3tJM', url: 'https://youtube.com' },
   { title: 'Kaitun 99 Night',  desc: 'GodMode,Auto day 100 and diamond farm',       videoId: 'uUjZV2bHLxM', url: 'https://youtube.com' },
   { title: 'Kaitun Blox Fruits 1-1500',   desc: 'Auto farm levels,auto farm money,auto get items',           videoId: 'r6N6FlCXmAw', url: 'https://youtube.com' },
-  { title: 'Kaitun Blox Fruits',         desc: 'Auto doing a-z with one click',             videoId: 'stU8S87bjsk', url: 'https://youtube.com' },
+  { title: 'Kaitun Blox Fruits',         desc: 'Auto farm,get items a-z with one click',             videoId: 'stU8S87bjsk', url: 'https://youtube.com' },
 ]
 const FEAT_ICONS = {
   shield: `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></svg>`,
@@ -66,12 +66,12 @@ const FEATURES = [
 ];
 
 const GAMES = [
-  { name: 'Blox Fruits',       img: 'Main/Images/bloxfruits.jpg', col: '#8b1a00' },
-  { name: 'Silent Assasins',           img: 'Main/Images/silenassasins.jpg',     col: '#1a0060' },
-  { name: 'PVP Blox Fruits',           img: 'Main/Images/pvp.jpg',    col: '#006400' },
-  { name: '99 Night In The Forest',   img: 'Main/Images/99.jpg',   col: '#8b4513' },
-  { name: 'Farm Fruits',  img: 'Main/Images/fruit.jpg',        col: '#006080' },
-  { name: 'Main 99 Night',         img: 'Main/Images/main99.jpg',   col: '#6b4400' },
+  { name: 'Blox Fruits', img: 'https://i.imgur.com/K0KOyPo.jpeg', col: '#8b1a00' },
+  { name: 'Silent Assasins', img: 'https://i.imgur.com/VxLY6z4.jpeg', col: '#1a0060' },
+  { name: 'PVP Blox Fruits', img: 'https://i.imgur.com/K0KOyPo.jpeg', col: '#006400' },
+  { name: '99 Night In The Forest',img: 'https://i.imgur.com/8Tr3xap.jpeg', col: '#8b4513' },
+  { name: 'Farm Fruits', img: 'https://i.imgur.com/K0KOyPo.jpeg', col: '#006080' },
+  { name: 'Main 99 Night', img: 'https://i.imgur.com/8Tr3xap.jpeg', col: '#6b4400' },
 ];
 
 const SCRIPTS = [
