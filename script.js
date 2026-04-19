@@ -95,6 +95,11 @@ const SCRIPTS = [
     desc: 'Godmode,auto diamond,99 days farm.',
     code: `loadstring(game:HttpGet("https://raw.githubusercontent.com/LongHip12/LonelyHub/refs/heads/main/LonelyHub-99NITFKaitun.lua"))()`
   },
+  {
+    title: 'Auto Bounty M1 Fruit', game: 'Blox Fruits',
+    desc: 'Auto Bounty With M1 Fruit Reset - 30M Bounty In 3 Hours,Never Detected!',
+    code: `getgenv().Config = {\n    ["Team"] = "Pirates",\n    ["Hide UI"] = false,\n\n    ["Hunt"] = {\n        ["Method Farm"] = "Reset",\n\n        ["Chat"] = {\n            ["Enabled"] = false,\n            ["Text"] = {"msg1", "msg2"},\n            ["Delay"] = 15\n        },\n\n        ["Auto Hop Time"] = 30,\n\n        ["Teleport Y When Low Health"] = {\n            Enabled = true,\n            ["Health Min"] = 4700,\n            ["Health Max"] = 6000\n        },\n\n        ["Auto V3"] = true,\n        ["Auto V4"] = true,\n        ["Auto Random Fruit"] = false,\n        ["Rejoin When Kick"] = true,\n\n        ["FPS Boost Method"] = "",\n        ["White Screen"] = false,\n        ["Black Screen"] = false,\n\n        ["Webhook"] = {\n            ["Enabled"] = false,\n            ["Url"] = ""\n        }\n    }\n}\n\nloadstring(game:HttpGet("https://raw.githubusercontent.com/LongHip12/LonelyHub/refs/heads/main/LonelyHub-BountyM1.lua"))()`
+  },
 ];
 
 const TRACKS = [
